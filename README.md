@@ -23,7 +23,7 @@
 🔭 I’m currently preparing for placements!.<br>
 <br>🌱 I’m currently learning MERN Stack.<br>
 <br>📄 Check out my [Resume]()<br>
-<br>💻 All of my projects are available at My [https://github.com/shikkandar?tab=repositories])<br>
+<br>💻 All of my projects are available at My [Projects](https://github.com/shikkandar?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
 <br>📫 How to reach me mohammedshik3@gmail.com<br>
 
