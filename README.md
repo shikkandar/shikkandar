@@ -23,9 +23,9 @@
 
 🔭 I’m currently preparing for placements!.<br>
 <br>🌱 I’m currently learning MERN Stack.<br>
-<br>📄 Check out my [Resume](https://1drv.ms/b/s!AgPbShu6dL-mg2mrhza2Kzvab5KF?e=LhOIUG)<br>
-<br>💻 Know more about me [Portfilio](https://alih6051.github.io/)<br>
-<br>💻 All of my projects are available at My [Github Repositories](https://github.com/alih6051?tab=repositories)<br>
+<br>📄 Check out my [Resume]()<br>
+<br>💻 Know more about me [Portfilio]()<br>
+<br>💻 All of my projects are available at My [])<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
 <br>📫 How to reach me alih6051@gmail.com<br>
 
