@@ -1,6 +1,6 @@
 <!----------------------------------- Banner Section ------------------------------------>
 
-![Header Image](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
+![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
