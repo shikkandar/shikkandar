@@ -17,7 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p><img  align="right" src="https://magiccopy.xyz/assets/images/hadder.gif" alt="adam-pw" width="45%" /></p>
+<p><img  align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2aSc1vctY6JT07AkL8u2rF&ust=1721378658423000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDUk6-ZsIcDFQAAAAAdAAAAABAK" alt="adam-pw" width="45%" /></p>
 
 # 💫 About Me:
 
