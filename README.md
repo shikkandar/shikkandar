@@ -43,12 +43,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
-<br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<h2 align="center">🚀 Languages and Tools:</h2>
-<br/>
 <div align="center">
  
  <div align="center"><h3 align="center">Frontend</h3>
