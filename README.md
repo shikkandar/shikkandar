@@ -26,7 +26,7 @@
 <br>📄 Check out my [Resume](https://drive.google.com/file/d/1oaEZkF0awp9gSF1LlYPn4eU8AfomWXTb/view)<br>
 <br>💻 All of my projects are available at My [Projects](https://github.com/shikkandar?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
-<br>📫 How to reach me mohammedshik3@gmail.com<br>
+<br>📫 How to reach me mohammedshikkandar1@gmail.com<br>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
