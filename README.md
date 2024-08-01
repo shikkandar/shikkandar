@@ -22,7 +22,7 @@
 # 💫 About Me:
 
 🔭 I’m currently preparing for placements!.<br>
-<br>🌱 I’m currently learning MERN Stack.<br>
+<br>🌱 I’m currently learning NEXT.js.<br>
 <br>📄 Check out my [Resume](https://drive.google.com/file/d/1oaEZkF0awp9gSF1LlYPn4eU8AfomWXTb/view)<br>
 <br>💻 All of my projects are available at My [Projects](https://github.com/shikkandar?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
