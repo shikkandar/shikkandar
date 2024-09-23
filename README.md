@@ -29,7 +29,7 @@
 <br>📫 How to reach me mohammedshikkandar1@gmail.com<br>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3dDNaWAjEwFonvZlbw_BHI&ust=1727150018711000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiJi62V2IgDFQAAAAAdAAAAABAE">
 
 <h2 align="center">📱 Connect with me</h2>
 <br />
