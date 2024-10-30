@@ -66,7 +66,7 @@
 </div>
 
 <div align="center"><h3>Backend</h3> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&fontSize=20" alt="nodejs" style="padding: 10px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&fontSize=20" alt="nodejs" style="padding: 50px;">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&fontSize=20" alt="expressjs" style="padding: 10px;">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&fontSize=20" alt="mongodb" style="padding: 10px;">
   <img src="https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white&fontSize=20" alt="prisma" style="padding: 10px;">
