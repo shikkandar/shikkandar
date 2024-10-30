@@ -58,6 +58,7 @@
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
 <br/>
 <br/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&fontSize=20" alt="bootstrap" style="padding: 10px;">
   <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' align='center' alt='next' />
   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
