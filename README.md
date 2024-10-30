@@ -72,6 +72,7 @@
   <img src="https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white&fontSize=20" alt="prisma" style="padding: 10px;">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&fontSize=20" alt="postgresql" style="padding: 10px;">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&fontSize=20" alt="mysql" style="padding: 10px;">
+    <br />
   <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white&fontSize=20" alt="trpc" style="padding: 10px;">
   <img src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white&fontSize=20" alt="graphql" style="padding: 10px;">
   <img src="https://img.shields.io/badge/gRPC-0D47A1?style=for-the-badge&logo=grpc&logoColor=white&fontSize=20" alt="grpc" style="padding: 10px;">
