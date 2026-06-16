@@ -23,7 +23,7 @@
 
 🔭 I’m currently preparing for placements!.<br>
 <br>🌱 I’m currently working https://www.guvi.in<br>
-<br>📄 Check out my [Resume](https://drive.google.com/file/d/1oaEZkF0awp9gSF1LlYPn4eU8AfomWXTb/view)<br>
+<br>📄 Check out my [Resume](https://drive.google.com/file/d/1-NsG9wHCxRWGO5LGZQlD7X5mZUJskkWy/view?usp=sharing)<br>
 <br>💻 All of my projects are available at My [Projects](https://github.com/shikkandar?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
 <br>📫 How to reach me mohammedshikkandar1@gmail.com<br>
