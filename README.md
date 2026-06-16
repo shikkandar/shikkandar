@@ -22,7 +22,7 @@
 # 💫 About Me:
 
 🔭 I’m currently preparing for placements!.<br>
-<br>🌱 I’m currently working https://www.guvi.in/?ref=zjnlytc&utm_source=Affiliate&utm_medium=Reclame_Digital_CPS&utm_content=Home_Dec_2025&utm_campaign=63_&gad_source=1<br>
+<br>🌱 I’m currently working https://www.guvi.in<br>
 <br>📄 Check out my [Resume](https://drive.google.com/file/d/1oaEZkF0awp9gSF1LlYPn4eU8AfomWXTb/view)<br>
 <br>💻 All of my projects are available at My [Projects](https://github.com/shikkandar?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
