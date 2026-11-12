@@ -2,33 +2,50 @@
 
 ![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
 
-<!----------------------------------- Heading Section ------------------------------------>
+<!----------------------------------- Hero Section ------------------------------------>
 <h1 align="center">
-    Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Shikkandar
-   
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> I'm Shikkandar
 </h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;Product+Lead+@+HCL+GUVI;Golang+%26+Python+Backend+Architect;Building+DORA+-+In-house+CRM;Innovation+Catalyst+Award+%F0%9F%8F%86" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Senior-Software_Engineer-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Working_at-HCL_GUVI-00C6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86_Innovation_Catalyst-Award_2026-FFB000?style=for-the-badge" />
+  <a href="https://github.com/shikkandar?tab=repositories"><img src="https://img.shields.io/github/followers/shikkandar?label=Followers&style=for-the-badge&color=7F00FF&logo=github" /></a>
+</p>
+
+<br />
+
 <!----------------------------------- About Section ------------------------------------>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C6FF&height=60&section=header&text=About%20Me&fontSize=30&fontColor=ffffff&fontAlignY=55" width="100%" />
+</p>
 
-<h3 align="center">A Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</h3>
+<p><img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="42%" /></p>
 
+### 👨‍💻 Who am I?
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+Results-driven **Senior Software Engineer** and **Product Lead** with hands-on expertise in building **scalable backend architectures** and **enterprise automation systems** using **Golang** and **Python**.
 
-<p><img  align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="45%" /></p>
+Currently leading a **5-member engineering team at HCL GUVI** to architect and scale **DORA** — an in-house CRM platform that automates end-to-end workflows across Pre-sales, Sales, Post-sales, Webinars and Quality teams.
 
-# 💫 About Me:
+I love translating complex business operations into reliable, high-performance technical solutions.
 
-🔭 I’m currently preparing for placements!.<br>
-<br>🌱 I’m currently working https://www.guvi.in<br>
-<br>💻 All of my projects are available at My [Projects](https://github.com/shikkandar?tab=repositories)<br>
-<br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
-<br>📫 How to reach me mohammedshikkandar1@gmail.com<br>
+- 🚀 **Senior Software Engineer & Product Lead** | Working at [HCL GUVI](https://www.guvi.in)
+- 👥 Leading a **5-member engineering team**
+- 🧩 Architecting **DORA CRM**: Pre-sales → Sales → Post-sales → Webinars → Quality
+- 🐹 Scalable backends & automation with **Go** and **Python**
+- 🏆 **Innovation Catalyst Award** (Apr – Sep 2026) for impactful product &amp; process innovations
+- 📂 Check out my work → **[Projects](https://github.com/shikkandar?tab=repositories)**
+- 📫 Reach me at **[mohammedshikkandar1@gmail.com](mailto:mohammedshikkandar1@gmail.com)**
 
+<br clear="right" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<br />
 
 <!----------------------------------- Connect Section ------------------------------------>
 <p align="center">
