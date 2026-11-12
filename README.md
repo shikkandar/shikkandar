@@ -18,6 +18,10 @@
   <a href="https://github.com/shikkandar?tab=repositories"><img src="https://img.shields.io/github/followers/shikkandar?label=Followers&style=for-the-badge&color=7F00FF&logo=github" /></a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="180" />
+</p>
+
 <br />
 
 <!----------------------------------- About Section ------------------------------------>
@@ -58,6 +62,10 @@ I love translating complex business operations into reliable, high-performance t
   <a href="https://github.com/shikkandar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" /></a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" />
+</p>
+
 <br />
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
@@ -67,6 +75,18 @@ I love translating complex business operations into reliable, high-performance t
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=JavaScript+%7C+TypeScript+%7C+Go+%7C+Python;Next.js+%7C+NestJS+%7C+React+%7C+Node.js;FastAPI+%7C+Django+%7C+GraphQL+%7C+tRPC+%7C+gRPC;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="60" />&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="60" />&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="60" />&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="60" />&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" height="60" />
 </p>
 
 <p align="center">
@@ -83,6 +103,10 @@ I love translating complex business operations into reliable, high-performance t
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shikkandar&theme=tokyonight" height="180" />
   <img src="https://streak-stats.demolab.com?user=shikkandar&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80%" />
 </p>
 
 <p align="center">
